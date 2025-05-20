@@ -180,6 +180,10 @@ Alex, a software developer, uses the Cline AI extension in VS Code but feels its
 - (Future) Defining a clear and intuitive UX for prompt editing and management.
 - (Future) Ensuring compatibility across different versions of target extensions.
 
+### 8.5 Development Methodology
+
+- **Test-Driven Development (TDD)**: The development of this extension should adhere to London TDD principles. This involves writing tests that define and verify the behavior of components and their interactions before the functional code is written, focusing on the collaboration of objects.
+
 ## 9. Milestones & sequencing
 
 ### 9.1. Project estimate
@@ -214,6 +218,7 @@ Alex, a software developer, uses the Cline AI extension in VS Code but feels its
 ### 10.1. Install and verify basic extension functionality (Phase 1)
 
 - **ID**: US-001
+- **Status: Completed**
 - **Description**: As a VS Code user, I want to install the "Cline based AI agents system prompt fine tuning" extension and run a simple command so that I can verify it is installed correctly and active.
 - **Acceptance criteria**:
 - The extension can be found and installed from the VS Code Marketplace (or via VSIX for local testing).

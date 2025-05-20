@@ -59,7 +59,9 @@
         "-i",
         "--rm",
         "mcp/time"
-      ]
+      ],
+      "disabled": true,
+      "alwaysAllow": []
     },
     "context7": {
       "timeout": 60,

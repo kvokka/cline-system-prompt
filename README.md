@@ -24,11 +24,10 @@ For detailed product requirements and future plans, please see the [PRD located 
 
 ## Getting Started (Development)
 
-(This section will be updated once the boilerplate code structure is in place by the development team.)
-
 1. Clone the repository.
 2. Install dependencies: `npm install`
 3. Compile the extension: `npm run compile` (or `npm run watch` for development)
-4. Open the project in VS Code and press `F5` to launch the Extension Development Host.
+4. Lint the code: `npm run lint` (ensure no errors before proceeding)
+5. Open the project in VS Code and press `F5` to launch the Extension Development Host.
 
 _*Templated from [kvokka/getting-started](https://github.com/kvokka/getting-started)*_
